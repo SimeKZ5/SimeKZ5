@@ -8,7 +8,7 @@
 🌐 Open-minded and always seeking opportunities to collaborate and grow.
 🔧 Tech Stack:
 
-Frontend: React, HTML, CSS, QML
+Frontend: React, HTML, CSS, QML, Typescript, JS
 Tools: Git, VS Code, QT Creator
 
 🌟 What I Do:
