@@ -9,7 +9,7 @@
 🔧 Tech Stack:
 
 Frontend: React, HTML, CSS, QML, Typescript, JS
-Backend: Node.js(Express), C#
+Backend: Node.js(Express), C# (Newbie)
 Database: T-SQL
 Tools: Git, VS Code, QT Creator
 
