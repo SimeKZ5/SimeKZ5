@@ -14,7 +14,7 @@ Database: T-SQL
 Tools: Git, VS Code, QT Creator
 
 🌟 What I Do:
-I'm enthusiastic about creating elegant, user-friendly web experiences using React. With a diverse background in biology and frontend development, I bring a unique perspective to my projects. Currently working on a React app for advanced factory managment system. 
+I'm enthusiastic about creating elegant, user-friendly web experiences using React. With a diverse background in biology and frontend development, I bring a unique perspective to my projects. Currently working on a React apps for warehouse managment systems. 
 
 🤝 Let's Collaborate:
 I'm on the lookout for opportunities to work on open source projects. If you're interested in collaboration or have any exciting projects in mind, feel free to reach out!
